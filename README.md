@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **AI Models, Design & Architecture**
+- 🌱 I’m currently learning **AI Models, Data Science**
 
 - 📫 How to reach me **waleedkhanjf17@gmail.com**
 
