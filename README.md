@@ -1,5 +1,5 @@
 ![Cover](https://github.com/WaleedKhan99/WaleedKhan99/blob/main/GitHub%20Profile%20Cover%20Image%20.png)
-<h1 align="center">A.O.A🤷‍♂️, I'm Waleed Ahmed Khan</h1>
+<h1 align="center">Hy🤷‍♂️, I'm Waleed Ahmed Khan</h1>
 <h3 align="center">A Software Engineer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://schoolerp.oneroof.tech/static/assets/images/Pair%20programming.gif">
