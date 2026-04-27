@@ -116,8 +116,6 @@ contact: waleedkhanjf17@gmail.com
 
 ---
 
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
