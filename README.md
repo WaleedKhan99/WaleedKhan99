@@ -33,7 +33,7 @@ contact: waleedkhanjf17@gmail.com
 
 </td>
 <td width="45%" valign="middle" align="center">
-  <img src="https://schoolerp.oneroof.tech/static/assets/images/Pair%20programming.gif" width="320" alt="coding gif" style="border-radius:12px"/>
+  <img src="https://schoolerp.oneroof.tech/static/assets/images/Pair%20programming.gif" width="320" alt="coding gif"/>
 </td>
 </tr>
 </table>
@@ -104,7 +104,7 @@ contact: waleedkhanjf17@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=waleedkhan99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=waleedkhan99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedkhan99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="40%" alt="Top Languages"/>
 
@@ -119,7 +119,19 @@ contact: waleedkhanjf17@gmail.com
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waleedkhan99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=waleedkhan99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="60%" alt="Extended Stats"/>
+</div>
+
+<div align="center">
+
+| 🏅 Achievement | 📊 Details |
+|---|---|
+| 🚀 Languages | Flutter · Python · JavaScript · Java · C++ |
+| 🤖 AI/ML | TensorFlow · PyTorch · scikit-learn · OpenCV |
+| 🌐 Web | Django · Node.js · HTML · CSS · Bootstrap |
+| 🛢️ Databases | MySQL · SQLite · MS SQL Server |
+| ☁️ Platforms | Firebase · Git · Linux · Postman · Figma |
+
 </div>
 
 ---
